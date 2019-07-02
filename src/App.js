@@ -39,7 +39,7 @@ export default class App extends React.Component{
       <div className='Header'>
                    <h1 className='white'>Angel Biondi</h1> <br/>
                    <h2 className='white'>Full Stack Web Developer</h2> <br/>
-                   <h3 className='white'>Web Developer, Always looking for modernism and give on my websites something that nobody else has, Full of Ideas, With High Knowledge on Digital Marketing and Page SEO <br/> <br/>
+                   <h3 className='white'>Always looking for modernism and give on my websites something that nobody else has, Full of Ideas, With High Knowledge on Digital Marketing and Page SEO <br/> <br/>
 
 Personal Goal: Be The Best Asset in any business that decides to give me a try. <br/> <br/>
 
@@ -77,4 +77,4 @@ Falling is just an accident, staying in the floor is an unforgivable decision.</
  
   );
   }
-}
+} 
