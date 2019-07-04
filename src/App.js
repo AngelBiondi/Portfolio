@@ -59,8 +59,9 @@ Falling is just an accident, staying in the floor is an unforgivable decision.</
   </div>
   <div className='what'>
     <h2>My websites</h2>
+    {/* how i design my websites. 1- responsive design, mobile first. 2- speed and user friendly. 3-modernism 4-last but not less, KISS= keep it simple stupid. */}
     
-  </div>
+     </div>
 <div className='skills'>
   <h1> My Skills</h1>
   <img className='resp' src={responsive}/> 
