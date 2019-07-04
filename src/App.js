@@ -57,6 +57,10 @@ Falling is just an accident, staying in the floor is an unforgivable decision.</
   Once i finished high school (2018) i didn't knew pretty well what to do with my life, i started learning a new language (english) and my University studies of CS in my country, Venezuela<br/>
   I started developing more and more interest on programming so i decided to enroll in an Online Course (Platzi), Then i enrolled on IronHack miami and finished the Full Stack Web Dev Bootcamp, after all of that i keep learning by my own every single day and putting all my knowledge on practice.</h5>
   </div>
+  <div className='what'>
+    <h2>My websites</h2>
+    
+  </div>
 <div className='skills'>
   <h1> My Skills</h1>
   <img className='resp' src={responsive}/> 
