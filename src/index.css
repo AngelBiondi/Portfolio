@@ -73,3 +73,39 @@ li {
   width: 500px;
   height: 300px;
 }
+
+.ipho {
+  margin-top: 80px;
+  margin-bottom: 80px;
+  margin-right: 880px;
+}
+
+.defin{
+width: 460px;
+}
+
+.icon{
+  float: left;
+  width: 150px;
+  height: 100px;
+margin-right: 900px;
+}
+
+.icons{
+  float: left;
+  width: 150px;
+  height: 150px;
+  margin-right: 300px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
