@@ -70,11 +70,11 @@ Falling is just an accident, staying in the floor is an unforgivable decision.</
   </div>
 
   <div className="column">
-  <h1 className='recipe'>RESPONSIVE DESIGN</h1> <br/> <img className='icon' src={design}/> <p className='defin'>If you plan your Website only for your computer you are making a mistake, 78% of the users get in internet through smartphones, and why to stop there? a Web page must be responsive for Computers, Smartphones, Tablets and now for TVs too. The end-user will have a better time viewing your site on their mobile devices because the site will look clean and optimized for whichever device they choose to view it on. This will keep them on the site for a longer period of time, thus giving more time to convert them into a customer. Not to mention, it allows for more people to view your site, giving you more opportunities for conversions.</p>
-<br/>
-<h1 className='recipe'>CROSS BROWSER</h1> <br/> <img className='icons' src={cross}/>   <p className='defin'>A Webpage must be designed for all the differents Web Browsers that we can find, not only for offering the user something more friendly, more than that it also affects your position in Google and others Search Engines.</p>
+  <img className='icon' src={design}/> <br/> <h1 className='recipe'>RESPONSIVE DESIGN</h1>  <p className='defin'>The end-user will have a better time viewing your site on their mobile devices because the site will look clean and optimized for whichever device they choose to view it on. This will keep them on the site for a longer period of time, thus giving more time to convert them into a customer. Not to mention, it allows for more people to view your site, giving you more opportunities for conversions.</p>
  <br/>
- <h1 className='recipe'>USER FRIENDLY</h1> <br/> <img className='icons' src={friend}/> <p className='defin'> It can make or break your customer base. It creates fewer problems, increases user involvement, perfects functionality and creates a strong link between your customers and your website.</p>
+ <img className='icons' src={cross}/> <br/>  <h1 className='recipe'>CROSS BROWSER</h1>  <p className='defin'>A Webpage must be designed for all the differents Web Browsers that we can find, not only for offering the user something more friendly, more than that it also affects your position in Google and others Search Engines.</p>
+ <br/>
+<img className='icons' src={friend}/> <br/> <h1 className='recipe'>USER FRIENDLY</h1>  <p className='defin'> It can make or break your customer base. It creates fewer problems, increases user involvement, perfects functionality and creates a strong link between your customers and your website.</p>
   </div>
 </div>
 
@@ -84,8 +84,8 @@ Falling is just an accident, staying in the floor is an unforgivable decision.</
     
 
 <section className='skills'>
-  <h1> My Skills</h1>
-  <img className='resp' src={responsive}/> 
+  <h1> Technologies that i use</h1>
+ 
   <ul>
   <li><img className='code' src={mongo}/></li>
   <li><img className='code' src={relo}/></li>
