@@ -84,7 +84,7 @@ Falling is just an accident, staying in the floor is an unforgivable decision.</
     
 
 <section className='skills'>
-  <h1> Technologies that i use</h1>
+  <h1> Technologies that i work with</h1>
  
   <ul>
   <li><img className='code' src={mongo}/></li>
