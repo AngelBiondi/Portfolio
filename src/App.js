@@ -59,7 +59,7 @@ Falling is just an accident, staying in the floor is an unforgivable decision.</
  hours and hours scrolling trough Social networks and all that stuff, I grew up in the Internet revolution. <br/>
   Beside of that i always had the interest on learning how it all worked, how big companies create videogames or networks, but i never took a look into it. <br/>
   Once i finished high school (2018) i didn't knew pretty well what to do with my life, i started learning a new language (english) and my University studies of CS in my country, Venezuela<br/>
-  I started developing more and more interest on programming so i decided to enroll in an Online Course (Platzi), Then i enrolled on IronHack miami and finished the Full Stack Web Dev Bootcamp, after all of that i keep learning by my own every single day and putting all my knowledge on practice.</h5>
+  I started developing more and more interest on programming so i decided to enroll in an Online Course (Platzi), Then i enrolled on IronHack Miami and finished the Full Stack Web Dev Bootcamp, after all of that i keep learning by my own every single day and putting all my knowledge on practice.</h5>
   </section> <hr/>
   <section className='what'>
   <div className="row">
